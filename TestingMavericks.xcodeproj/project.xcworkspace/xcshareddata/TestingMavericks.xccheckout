@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>185AF320-296C-4D0D-A0DC-40CC90369425</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestingMavericks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DCBE381-76EA-4F8D-8AFA-71706963294E</key>
+		<string>https://github.com/randallli/testingMavericks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestingMavericks.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DCBE381-76EA-4F8D-8AFA-71706963294E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/randallli/testingMavericks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DCBE381-76EA-4F8D-8AFA-71706963294E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DCBE381-76EA-4F8D-8AFA-71706963294E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestingMavericks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
