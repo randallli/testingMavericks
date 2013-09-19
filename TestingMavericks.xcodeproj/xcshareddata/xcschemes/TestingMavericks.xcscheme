@@ -110,6 +110,22 @@
                </EnvironmentBuildable>
             </ActionContent>
          </ExecutionAction>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "exec &gt; /tmp/tmXcodePostActionLogBuild.txt 2&gt;&amp;1&#10;date&#10;echo begin post-action&#10;cd ${SRCROOT}&#10;source /opt/boxen/env.sh&#10;ipa build --scheme GoWatchIt&#10;echo end post-action&#10;date">
+               <EnvironmentBuildable>
+                  <BuildableReference
+                     BuildableIdentifier = "primary"
+                     BlueprintIdentifier = "B14CF4E017EA06E200048A72"
+                     BuildableName = "TestingMavericks.app"
+                     BlueprintName = "TestingMavericks"
+                     ReferencedContainer = "container:TestingMavericks.xcodeproj">
+                  </BuildableReference>
+               </EnvironmentBuildable>
+            </ActionContent>
+         </ExecutionAction>
       </PostActions>
    </ArchiveAction>
 </Scheme>
