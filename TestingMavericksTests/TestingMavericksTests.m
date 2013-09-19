@@ -26,6 +26,13 @@
     [super tearDown];
 }
 
+    
+- (void)testExample2
+{
+    XCTAssertEqual(55, 5, @"they are equal");
+    //    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+    
 - (void)testExample
 {
     XCTAssertEqual(5, 5, @"they are equal");
